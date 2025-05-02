@@ -62,6 +62,7 @@ export class MermaidChartAuthenticationProvider
    * @param scopes
    * @returns
    */
+  //@ts-ignore
   public async getSessions(
     scopes?: string[]
   ): Promise<readonly AuthenticationSession[]> {

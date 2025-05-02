@@ -26,6 +26,7 @@ export class MermaidChartVSCode extends MermaidChart {
       vscode.authentication.registerAuthenticationProvider(
         MermaidChartAuthenticationProvider.id,
         MermaidChartAuthenticationProvider.providerName,
+        //@ts-ignore
         new MermaidChartAuthenticationProvider(this, context)
       )
     );
