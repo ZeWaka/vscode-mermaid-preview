@@ -12,7 +12,7 @@ import {
 import { MermaidChartCodeLensProvider } from "./mermaidChartCodeLensProvider";
 
 export async function activate(context: vscode.ExtensionContext) {
-  console.log("Activating Mermaid Charty extension");
+  console.log("Activating Mermaid Charty Preview extension");
   const mcAPI = new MermaidChartVSCode();
   await mcAPI.initialize(context);
 

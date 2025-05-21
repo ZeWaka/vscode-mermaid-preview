@@ -162,7 +162,7 @@ export async function viewMermaidChart(
 ) {
   const panel = vscode.window.createWebviewPanel(
     "mermaidChartView",
-    `Mermaid Charty: ${uuid}`,
+    `Mermaid Charty Preview: ${uuid}`,
     vscode.ViewColumn.One,
     {}
   );

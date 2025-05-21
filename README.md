@@ -1,12 +1,12 @@
-# Mermaid Charty - 1.0 extension for Visual Studio Code
+# Mermaid Charty Preview - 1.0 extension for Visual Studio Code
 
-### This is a fork of the original Mermaid Chart extension after the terrible 2.0 update.
+### This is a fork of the [original Mermaid Preview extension](https://github.com/vstirbu/vscode-mermaid-preview/tree/9e7de6e390cc1dbec21c5abbb9ba0a09ce0ed9d3) after the terrible 2.0 update.
 
 ### I commit to never updating this extension, and deleting it if stops working for me.
 
 This extension is a Tool for visualizing and editing Mermaid diagrams in Visual Studio Code.The extension enables developers to view and edit diagrams stored in Mermaid Chart from Visual Studio Code. With the integration to the Mermaid Chart service, this extension allows users to attach diagrams to their code and to gain quick access to updating diagrams.
 
-Simplify your development workflow with the Mermaid Charty extension.
+Simplify your development workflow with the Mermaid Charty Preview extension.
 
 ## Features
 
@@ -30,7 +30,7 @@ The other link opens the diagram for editing in a browser window.
 
 ## Requirements
 
-The Mermaid Charty extension for Visual Studio Code seamlessly integrates with the Mermaid Chart service, requiring an account to use. Choose between the free tier (limited to 5 diagrams) or the pro tier (unlimited diagrams). Collaborate by setting up teams and sharing diagrams within your development organisation. Simplify diagram management and enhance your workflow with Mermaid Charty for Visual Studio Code.
+The Mermaid Charty Preview extension for Visual Studio Code seamlessly integrates with the Mermaid Chart service, requiring an account to use. Choose between the free tier (limited to 5 diagrams) or the pro tier (unlimited diagrams). Collaborate by setting up teams and sharing diagrams within your development organisation. Simplify diagram management and enhance your workflow with Mermaid Charty Preview for Visual Studio Code.
 
 ## Extension Settings
 
@@ -56,4 +56,6 @@ This extension contributes the following settings:
 
 ### 1.0.0 - 2023-06-26
 
-- Initial release of the Mermaid Chart extension for Visual Studio Code.
+- Initial release of the Mermaid Preview extension for Visual Studio Code.
+
+Forked from: https://github.com/vstirbu/vscode-mermaid-preview/tree/9e7de6e390cc1dbec21c5abbb9ba0a09ce0ed9d3
